@@ -5,8 +5,8 @@
 ### Problems Solved:
 | Problems Solved 👇🏻         | Difficulty | Link | 
 | -------------------------- | ----------------------------------------------------------------- |  --------------------------------------- |
-| Encryption                 | Medium | [Solution](https://github.com/aniruddhabagal/DAA_ABA/blob/main/Aniruddha%20Bagal.md#problem-1) |
-| Messages Order             | Medium | [Solution](https://github.com/aniruddhabagal/DAA_ABA/blob/main/Aniruddha%20Bagal.md#problem-2) |
+| Encryption                 | Medium | [Solution](https://github.com/aniruddhabagal/DAA_ABA/blob/main/Encryption.cpp) |
+| Messages Order             | Medium | [Solution](https://github.com/aniruddhabagal/DAA_ABA/blob/main/Messages%20Order.cpp) |
 
 ---
 
@@ -15,7 +15,7 @@
 ### Problems Solved:
 | Problems Solved 👇🏻         | Difficulty | Link | 
 | -------------------------- | ----------------------------------------------------------------- |  --------------------------------------- |
-| Huffman Decoding           | Medium | [Solution](https://github.com/aniruddhabagal/DAA_ABA/blob/main/Aishwarya%20K%20B.md#problem-1) |
-| Queue using Two Stacks     | Medium | [Solution](https://github.com/aniruddhabagal/DAA_ABA/blob/main/Aishwarya%20K%20B.md#problem-2) |
+| Huffman Decoding           | Medium | [Solution](https://github.com/aniruddhabagal/DAA_ABA/blob/main/Huffman%20Decoding.cpp) |
+| Queue using Two Stacks     | Medium | [Solution](https://github.com/aniruddhabagal/DAA_ABA/blob/main/Queue%20using%20Two%20Stacks.cpp) |
 
 ---
